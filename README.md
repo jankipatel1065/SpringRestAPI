@@ -73,7 +73,7 @@ This project is a Spring Boot REST API implementation for managing employees. It
 
 # Screenshot:
 
-[!Screenshot](/ss.png)
+![Screenshot](/ss.png)
 
 ## Running the Application
 
