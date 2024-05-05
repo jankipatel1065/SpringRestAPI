@@ -8,7 +8,7 @@ This project is a Spring Boot REST API implementation for managing employees. It
 - **Spring Data JPA**: For interacting with the database.
 - **MySQL**: As the database management system.
 - **Swagger**: For API documentation.
-- **PostMan** Fo
+- **PostMan** For run application
 - **Lombok**: To reduce boilerplate code.
 
 ## API Endpoints
@@ -70,6 +70,10 @@ This project is a Spring Boot REST API implementation for managing employees. It
 
 1. **Delete Employee**: `{{url}}/employees?id={id}`
    - Delete an employee by their ID.
+
+# Screenshot:
+
+[!Screenshot](/ss.png)
 
 ## Running the Application
 
